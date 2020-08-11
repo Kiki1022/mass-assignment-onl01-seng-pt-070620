@@ -9,7 +9,4 @@ class Person
     end
 
 
-
-
-
 end
